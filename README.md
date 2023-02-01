@@ -131,7 +131,7 @@ height="145" alt="">
 ![OUTPUT](./cover/naveenaa/or.png)
 
 ## HTML VALIDATOR :
-![HTML VALIDATOR](./or.png)
+![HTML VALIDATOR](./valid11.png)
 
 ## Result:
 The program for design book cover page using html and css is executed successfully.
