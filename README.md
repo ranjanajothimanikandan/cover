@@ -131,7 +131,7 @@ height="145" alt="">
 ![OUTPUT](./out11.png)
 
 ## HTML VALIDATOR :
-![HTML VALIDATOR](./valid11.png)
+![HTML VALIDATOR](./or.png)
 
 ## Result:
 The program for design book cover page using html and css is executed successfully.
