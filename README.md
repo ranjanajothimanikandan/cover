@@ -128,7 +128,7 @@ height="145" alt="">
 ```
 
 ## Output:
-![OUTPUT](./out11.png)
+![OUTPUT](./cover/naveenaa/or.png)
 
 ## HTML VALIDATOR :
 ![HTML VALIDATOR](./or.png)
